@@ -1,0 +1,50 @@
+# =========================
+# Python / Virtual env
+# =========================
+.venv/
+venv/
+ENV/
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# =========================
+# llama.cpp / models
+# =========================
+uploaded_models/
+*.gguf
+*.bin
+*.model
+
+# =========================
+# Data / runtime artifacts
+# =========================
+*.log
+*.sqlite
+*.db
+*.tmp
+
+# =========================
+# FastAPI / Uvicorn
+# =========================
+.env
+.env.*
+uvicorn.log
+
+# =========================
+# Node / React frontend
+# =========================
+node_modules/
+dist/
+build/
+.vite/
+
+# =========================
+# OS / editor junk
+# =========================
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp

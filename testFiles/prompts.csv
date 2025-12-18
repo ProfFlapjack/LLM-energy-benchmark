@@ -1,0 +1,12 @@
+name,prompt,answer
+math_small_001,"What is 17 × 24?","408"
+math_medium_001,"Calculate the result of multiplying 17 by 24.","408"
+math_large_001,"Please solve the following arithmetic problem carefully. What is the product of 17 multiplied by 24?","408"
+
+logic_small_002,"True or False: If all bloops are razzies and all razzies are lazzies, are all bloops lazzies?","True"
+logic_medium_002,"True or False: Consider the following statements: All bloops are razzies. All razzies are lazzies. Based on this information, are all bloops lazzies?","True"
+logic_large_002,"True or False: You are given a logical reasoning problem. All bloops belong to the category of razzies, and all razzies belong to the category of lazzies. Using deductive reasoning, determine whether it necessarily follows that all bloops are lazzies.","True"
+
+fact_small_003,"What is the capital of France?","Paris"
+fact_medium_003,"Identify the capital city of the country France.","Paris"
+fact_large_003,"France is a country located in Western Europe. What is the name of its capital city, which also serves as a major cultural, political, and economic center?","Paris"
